@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as r,a3 as t}from"./chunks/framework.BoviJh-n.js";const f=JSON.parse('{"title":"历届获奖","description":"","frontmatter":{},"headers":[],"relativePath":"历届获奖.md","filePath":"历届获奖.md"}'),l={name:"历届获奖.md"},h=t("",42),n=[h];function o(i,d,c,p,_,s){return r(),e("div",null,n)}const b=a(l,[["render",o]]);export{f as __pageData,b as default};
